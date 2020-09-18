@@ -9,6 +9,6 @@ public class test {
 
     public static void main(String[] args) {
         System.out.println("12312313");
-        System.out.println("werwer");
+        System.out.println("werwe");
     }
 }
